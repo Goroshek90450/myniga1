@@ -1,0 +1,8 @@
+name: AntiKeyboardMouse
+version: 1.0
+main: AntiKeyboardMouse
+api-version: 1.20 # или твоя версия
+commands:
+  akm:
+    description: Проверить тип управления игрока
+    usage: /akm <player>
